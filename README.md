@@ -41,5 +41,4 @@ This will generate a grid pattern containing the base image and three mirrored v
 Following these instructions will provide you with a pattern image and, optionally, a 2x2 grid of the pattern. Please note the limitations mentioned below.
 
 ## Limitations
-
-The 2x2 grid generated images only mirror from left to right and left to bottom. This means the base pattern is located in quadrant II when represented on a Cartesian plane.
+The 2x2 grid of images exhibits mirror symmetries in different directions. Starting with Quadrant II as the fundamental pattern, Quadrant I mirrors this pattern horizontally. Quadrant III mirrors Quadrant I vertically, and Quadrant IV mirrors Quadrant III both horizontally and vertically. In this way, they create a symmetrical set of patterns on a Cartesian plane.
